@@ -1,0 +1,210 @@
+[
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/86/1a/f3/861af31c722a7d30a1f6812f97dd1aae.jpg",
+      "Chef Name": "Chef John",
+      "Years of experience": 8,
+      "Numbers of recipes": 50,
+      "Likes": 1000,
+      "Bio": "Chef John is a passionate culinary expert with 8 years of experience. ",
+       "Recipe Name": "Chicken Parmesan",
+        "Ingredients": [
+            "Chicken breast",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+          ],
+          "Cooking Method": "Preheat the oven to 400°F.Dip chicken breast in beaten egg, then coat with breadcrumbs.Fry chicken in a pan until golden brown.Place fried chicken in a baking dish, cover with tomato sauce and mozzarella cheese.Bake in the oven for 20 minutes or until the cheese is melted and bubbly.Serve hot.",
+          "Rating": 4.5
+        },
+      
+    
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/fa/17/96/fa17963ed89b4b0f68c1f15a511912a2.jpg",
+      "Chef Name": "Chef Emily",
+      "Years of experience": 12,
+      "Numbers of recipes": 80,
+      "Likes": 1500,
+      
+      "Bio": "Chef Emily is a seasoned chef with 12 years of experience in the culinary world. ",
+          "Recipe Name": "Quinoa Salad",
+          "Ingredients": [
+            "Quinoa",
+            "Cucumber",
+            "Cherry tomatoes",
+            "Red onion",
+            "Lemon juice"
+          ],
+          "Cooking Method": "Cook quinoa according to package instructions.Chop cucumber, cherry tomatoes, and red onion. In a bowl, combine cooked quinoa, cucumber, cherry tomatoes, red onion, and lemon juice. Toss well to combine. Season with salt and pepper to taste. Serve chilled.",
+          "Rating": 4.8
+        },
+      
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/3c/0d/79/3c0d79db87d03ca47988b2ab2ab24c59.jpg",
+      "Chef Name": "Chef David",
+      "Years of experience": 5,
+      "Numbers of recipes": 40,
+      "Likes": 800,
+     
+      "Bio": "With 5 years of experience, Chef David brings a fresh perspective to the kitchen. ",
+          "Recipe Name": "Spicy Tofu Stir-Fry",
+          "Ingredients": [
+            "Firm tofu",
+            "Soy sauce",
+            "Sesame oil",
+            "Garlic",
+            "Ginger"
+          ],
+          "Cooking Method": " Press tofu to remove excess moisture, then cut into cubes.  In a bowl, combine soy sauce, sesame oil, minced garlic, and grated ginger.  Heat oil in a pan over medium heat. Add tofu cubes and cook until browned.  Pour the sauce mixture over the tofu and stir-fry for a few minutes.  Serve hot with steamed rice.",
+          "Rating": 4.2
+       
+    },
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/6e/16/29/6e162948397889810a3fc7ad2a776a22.jpg",
+      "Chef Name": "Chef Sophia",
+      "Years of experience": 10,
+      "Numbers of recipes": 60,
+      "Likes": 1200,
+      
+      "Bio": "Chef Sophia is a highly skilled chef with a decade of experience in the culinary industry.",
+          "Recipe Name": "Chicken Parmesan",
+          "Ingredients": [
+            "Chicken breast",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+          ],
+          "Cooking Method": " Preheat the oven to 400°F.  Dip chicken breast in beaten egg, then coat with breadcrumbs.  Fry chicken in a pan until golden brown. Place fried chicken in a baking dish, cover with tomato sauce and mozzarella cheese. Bake in the oven for 20 minutes or until the cheese is melted and bubbly. Serve hot.",
+          "Rating": 4.5
+        },
+
+    {
+      "Chef Picture": "https://i.pinimg.com/236x/9d/a8/c8/9da8c8400bcaa07678c99d6abe594596.jpg",
+      "Chef Name": "Chef Michael",
+      "Years of experience": 15,
+      "Numbers of recipes": 90,
+      "Likes": 2000,
+     
+      "Bio": "With 15 years of experience, Chef Michael is a seasoned expert in the world of cuisine. ",
+          "Recipe Name": "Quinoa Salad",
+          "Ingredients": [
+            "Quinoa",
+            "Cucumber",
+            "Cherry tomatoes",
+            "Red onion",
+            "Lemon juice"
+          ],
+          "Cooking Method": " Cook quinoa according to package instructions.  Chop cucumber, cherry tomatoes, and red onion. In a bowl, combine cooked quinoa, cucumber, cherry tomatoes, red onion, and lemon juice.Toss well to combine. \n5. Season with salt and pepper to taste. Serve chilled.",
+          "Rating": 4.8
+       
+    },
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/5f/28/25/5f28252a316be4b3cd229831ae5b5460.jpg",
+      "Chef Name": "Chef Olivia",
+      "Years of experience": 7,
+      "Numbers of recipes": 55,
+      "Likes": 1100,
+      "Bio": "Chef Olivia is a dynamic chef with 7 years of experience in the culinary industry.",
+   
+          "Recipe Name": "Spicy Tofu Stir-Fry",
+          "Ingredients": [
+            "Firm tofu",
+            "Soy sauce",
+            "Sesame oil",
+            "Garlic",
+            "Ginger"
+          ],
+          "Cooking Method": " Press tofu to remove excess moisture, then cut into cubes.  In a bowl, combine soy sauce, sesame oil, minced garlic, and grated ginger. Heat oil in a pan over medium heat. Add tofu cubes and cook until browned.  Pour the sauce mixture over the tofu and stir-fry for a few minutes.  Serve hot with steamed rice.",
+          "Rating": 4.2
+      
+    },
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/c7/90/aa/c790aa80557a4f2a6724495911af4466.jpg",
+      "Chef Name": "Chef Benjamin",
+      "Years of experience": 9,
+      "Numbers of recipes": 65,
+      "Likes": 1300,
+    
+      "Bio": "Chef Benjamin has 9 years of culinary experience under his belt.",
+    
+          "Recipe Name": "Chicken Parmesan",
+          "Ingredients": [
+            "Chicken breast",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+          ],
+          "Cooking Method": "Preheat the oven to 400°F.  Dip chicken breast in beaten egg, then coat with breadcrumbs. Fry chicken in a pan until golden brown. \n4. Place fried chicken in a baking dish, cover with tomato sauce and mozzarella cheese. Bake in the oven for 20 minutes or until the cheese is melted and bubbly. Serve hot.",
+          "Rating": 4.5
+      
+    },
+    
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/64/1d/30/641d30f1c4e43aec6b3cfa9e0a82b916.jpg",
+      "Chef Name": "Chef Isabella",
+      "Years of experience": 6,
+      "Numbers of recipes": 35,
+      "Likes": 750,
+      
+      "Bio": "Chef Isabella brings 6 years and collection of 35 recipes reflects her dedication to crafting delicious and visually stunning dishes. ",
+  
+          "Recipe Name": "Quinoa Salad",
+          "Ingredients": [
+            "Quinoa",
+            "Cucumber",
+            "Cherry tomatoes",
+            "Red onion",
+            "Lemon juice"
+          ],
+          "Cooking Method": " Cook quinoa according to package instructions.  Chop cucumber, cherry tomatoes, and red onion.  In a bowl, combine cooked quinoa, cucumber, cherry tomatoes, red onion, and lemon juice.  Toss well to combine.  Season with salt and pepper to taste.  Serve chilled.",
+          "Rating": 4.8
+      
+    },
+    {
+      "Chef Picture": "https://i.pinimg.com/236x/97/2c/44/972c44a15bc2012a175e83cfcdf3a87f.jpg",
+      "Chef Name": "Chef Ethan",
+      "Years of experience": 11,
+      "Numbers of recipes": 70,
+      "Likes": 1400,
+      
+      "Bio": "Chef Ethan is a seasoned chef with 11 years of experience in the culinary world. ",
+    
+          "Recipe Name": "Spicy Tofu Stir-Fry",
+          "Ingredients": [
+            "Firm tofu",
+            "Soy sauce",
+            "Sesame oil",
+            "Garlic",
+            "Ginger"
+          ],
+          "Cooking Method": "1. Press tofu to remove excess moisture, then cut into cubes. \n2. In a bowl, combine soy sauce, sesame oil, minced garlic, and grated ginger. \n3. Heat oil in a pan over medium heat. \n4. Add tofu cubes and cook until browned. \n5. Pour the sauce mixture over the tofu and stir-fry for a few minutes. \n6. Serve hot with steamed rice.",
+          "Rating": 4.2
+       
+    },
+    {
+      "Chef Picture": "https://i.pinimg.com/564x/6e/18/91/6e1891e579f586e602d28a5aaf0d0add.jpg",
+      "Chef Name": "Chef Ava",
+      "Years of experience": 13,
+      "Numbers of recipes": 85,
+      "Likes": 1800,
+     
+      "Bio": "Chef Ava is a highly skilled culinary expert with 13 years of experience. ",
+  
+          "Recipe Name": "Chicken Parmesan",
+          "Ingredients": [
+            "Chicken breast",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+          ],
+          "Cooking Method": "1. Preheat the oven to 400°F. \n2. Dip chicken breast in beaten egg, then coat with breadcrumbs. \n3. Fry chicken in a pan until golden brown. \n4. Place fried chicken in a baking dish, cover with tomato sauce and mozzarella cheese. \n5. Bake in the oven for 20 minutes or until the cheese is melted and bubbly. \n6. Serve hot.",
+          "Rating": 4.5
+      
+    
+    }
+    
+  ]
+  
